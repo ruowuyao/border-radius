@@ -17,6 +17,7 @@ w3school中border-radius的语法介绍:1-4 length|% / 1-4 length|%;
   上     左右  下
 3. 1      2  
   上下   左右
+
 因此,2em     1em     4em    /     0.5em     3em    
 x轴长度:2em(上)  1em(右) 4em(下) 1em(左)  
 y轴长度:0.5em(上)  3em(右) 0.5em(下) 3em(左)  
