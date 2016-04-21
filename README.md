@@ -21,7 +21,7 @@ w3school中border-radius的语法介绍:1-4 length|% / 1-4 length|%;
 因此,2em     1em     4em    /     0.5em     3em    
 x轴长度:2em(上)  1em(右) 4em(下) 1em(左)  
 y轴长度:0.5em(上)  3em(右) 0.5em(下) 3em(左)  
-所以上方等价成立!
+所以上方等价成立!  
 ![border-radius](http://thumbnail0.baidupcs.com/thumbnail/5fb3a890179214ab6669ab3f44a4856b?fid=4130315690-250528-434582210467632&time=1461225600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-3XBg8lRY2bNWkPC7vy%2FWwPUt2NI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=2589960133312319395&dp-callid=0&size=c710_u400&quality=100)
 
 
